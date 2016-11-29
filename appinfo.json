@@ -1,0 +1,9 @@
+{
+		"name": "Droppy",
+		"short_name": "Droppy",
+		"version": "5.3.5",
+		"description": "Droppy is a very light-weight self-hosted file storage server with a web interface and capabilites to edit files and view media directly in the browser. It is particularly well-suited to be run on low-end hardware like the Raspberry Pi.",
+		"catalogue_url": "",
+		"application_url": "https://github.com/silverwind/droppy",
+		"tags": ["Storage"]
+}
